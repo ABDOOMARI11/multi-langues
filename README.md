@@ -1,5 +1,3 @@
-
-******************************************************************** English ***************************************************************************
 # Sports Articles Project
 
 This project is a simple demo illustrating content translation in a web page using jQuery and PHP. It allows changing the site language between French, English, and Arabic.
@@ -34,7 +32,7 @@ Ensure you have a web server configured with PHP to run the project correctly.
 *This project was created as part of a demo to illustrate web content translation features.
 
 
-******************************************************************** Français ***************************************************************************
+**************************** Français *******************************
 
 # Projet Articles de Sport
 
